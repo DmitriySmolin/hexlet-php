@@ -1,0 +1,17 @@
+{
+    "name": "monolog/monolog",
+    "description": "mydescription",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Monolog\\Monolog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dmitry Smolin"
+        }
+    ],
+    "require": {}
+}
